@@ -1,3 +1,3 @@
 // Hotfix
     // Feature1
-console.log('Hello world');
+console.log('Hello world!');
